@@ -43,7 +43,7 @@ OpenWeatherMap.propTypes = {
 OpenWeatherMap.defaultProps = {
   city: 'Jerusalem',
   country: 'IL',
-  appid: '00723a3406326bfacb23c699b7b955d6',
+  appid: '',
   units: 'metric',
 };
 
