@@ -1,6 +1,6 @@
 {
   "name": "react-weather",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Minimalistic react weather component.",
   "main": "lib/index.js",
   "scripts": {

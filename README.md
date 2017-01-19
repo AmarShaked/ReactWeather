@@ -19,7 +19,7 @@ import { GenericWeather } from 'react-weather';
 
 
 ReactDOM.render(
-  <OpenWeatherMap city="Jerusalem" country="IL" />,
+  <GenericWeather city="Jerusalem" temp=17.61 status="sun" />,
   document.getElementById('root')
 )
 ```
