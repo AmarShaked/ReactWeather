@@ -1,0 +1,6 @@
+{
+  "name": "OpenWeatherMap",
+  "version": "0.0.0",
+  "private": false,
+  "main": "./OpenWeatherMap.jsx"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "GenericWeather",
+  "version": "0.0.0",
+  "private": false,
+  "main": "./GenericWeather.jsx"
+}

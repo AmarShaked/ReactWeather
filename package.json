@@ -1,0 +1,38 @@
+{
+  "name": "react-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p",
+    "dev": "webpack --progress --colors --watch",
+    "start": "start-storybook -p 9001 -c .storybook"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "classnames": "^2.2.5",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "@kadira/storybook": "^2.35.3",
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.21.0",
+    "babel-eslint": "^7.1.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-loader": "^1.6.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0",
+    "node-sass": "^4.3.0",
+    "sass-loader": "^4.1.1",
+    "webpack": "^1.14.0"
+  }
+}
