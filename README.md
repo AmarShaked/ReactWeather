@@ -1,4 +1,4 @@
-![Alt text](./widget.png?raw=true "React Weather")
+![Alt text](https://raw.githubusercontent.com/AmarShaked/ReactWeather/master/widget.png?raw=true "React Weather")
 
 # ReactWeather
 Minimalistic react weather component.
