@@ -15,7 +15,7 @@ class OpenWeatherMap extends React.Component {
   componentDidMount() {
     const { city, country, appid, units } = this.props;
 
-    axios.get('http://api.openweathermap.org/data/2.5/weather', {
+    axios.get('https://api.openweathermap.org/data/2.5/weather', {
       params: {
         q: `${city},${country}`,
         APPID: appid,
