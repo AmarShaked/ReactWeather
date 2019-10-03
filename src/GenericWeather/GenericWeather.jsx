@@ -17,7 +17,7 @@ function GenericWeather({ city, temp, status }) {
 GenericWeather.propTypes = {
   city: PropTypes.string,
   temp: PropTypes.number,
-  status: PropTypes.string, foo,
+  status: PropTypes.string,
 };
 
 GenericWeather.defaultProps = {
